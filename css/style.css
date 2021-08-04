@@ -1,0 +1,94 @@
+.jumbotron {
+  padding      : 15px;
+  margin-bottom: 0;
+  background   : #454545;
+}
+
+.col-sm-3 .ceit-logo {
+  width      : 90px;
+  height     : 90px;
+  margin-left: 100px;
+}
+
+.fabfa-youtube {
+  margin-left: 100px;
+}
+
+.menu {
+  list-style      : none;
+  background-color: #ffffff;
+}
+
+.menu li {
+  display        : inline-block;
+  padding        : 5px;
+  text-decoration: none;
+}
+
+.menu li a {
+  text-decoration: none;
+  margin         : 10px;
+  font-size      : 30px;
+  color          : black;
+}
+
+.menu li a:hover {
+  text-decoration: underline;
+}
+
+.row {
+  display: flex;
+}
+
+.row .column1 {
+  width           : 25%;
+  background-color: #82E0AA;
+  padding         : 15px;
+}
+
+.row .column2 {
+  width           : 50%;
+  background-color: #FAD7A0;
+  padding         : 15px;
+}
+
+.row .column3 {
+  width           : 25%;
+  background-color: #82E0AA;
+  padding         : 15px;
+}
+
+.course_items {
+  list-style-type: none;
+}
+
+.footer {
+  display         : flex;
+  background-color: #000000;
+}
+
+.courses {
+  color  : #ffffff;
+  margin : 40px;
+  padding: 40px;
+}
+
+.Copyright {
+  color  : #ffffff;
+  margin : 40px;
+  padding: 40px;
+}
+
+.contact {
+  color  : #ffffff;
+  margin : 40px;
+  padding: 40px;
+}
+
+.iphone {
+  image-size: 100px;
+}
+
+.HOME {
+  background-color: green;
+}
